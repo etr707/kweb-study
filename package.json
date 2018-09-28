@@ -1,0 +1,17 @@
+{
+  "name": "KWEB",
+  "version": "0.0.1",
+  "description": "스터디",
+  "main": "index.js",
+  "author": "김재훈",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+    
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  }
+}
+
