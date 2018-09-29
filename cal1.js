@@ -27,8 +27,11 @@ calc.mod = function(a,b){
     
 }
 
+
 calc.getE = function(){
     return Math.E;
 }
 
 module.exports = calc;
+
+//kweb study project

@@ -27,3 +27,5 @@ exports.mod = function(a,b){
 exports.getE = function(){
     return Math.E;
 }
+
+//kweb study project
