@@ -7,11 +7,10 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.18.4"
-    
   },
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js"
-  }
+  },
+  "repository": "https://github.com/etr707/kweb-study.git"
 }
-
